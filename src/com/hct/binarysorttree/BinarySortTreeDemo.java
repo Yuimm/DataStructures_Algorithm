@@ -138,7 +138,7 @@ class BinartSortTree{
 }
 
 //创建结点
-class Node {
+ class Node {
     int value;
     Node left;
     Node right;
